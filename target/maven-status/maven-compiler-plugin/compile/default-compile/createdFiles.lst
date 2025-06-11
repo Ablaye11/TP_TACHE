@@ -1,0 +1,8 @@
+com\example\taskmanager\controller\TaskController.class
+com\example\taskmanager\model\Task$Status.class
+com\example\taskmanager\model\Task.class
+com\example\taskmanager\service\TaskService.class
+com\example\taskmanager\controller\HomeController.class
+com\example\taskmanager\model\Task$Priority.class
+com\example\taskmanager\repository\TaskRepository.class
+com\example\taskmanager\TaskmanagerApplication.class
